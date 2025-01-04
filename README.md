@@ -1,13 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!-- cabeçalhos -->
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+*italico* ou_italico_
+
+**negrito** ou__negrito__
+
+___negrito e italico___
+
+- Lista 1
+- Lista 2
+  - sublista
 
 
 **Blaykdev/Blaykdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
