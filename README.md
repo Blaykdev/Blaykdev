@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
 *italico* ou_italico_
 
-**negrito** ou__negrito__
+
+**Negrito** ou__negrito__
 
 ___negrito e italico___
 
@@ -11,7 +11,11 @@ ___negrito e italico___
 - Lista 2
   - sublista
 
+1. Lista 1
+2. Lista 2
+ 1. sublista
 
+<!--
 **Blaykdev/Blaykdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
