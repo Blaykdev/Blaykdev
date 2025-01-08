@@ -1,9 +1,6 @@
 ## Seja Bem-Vindos ao Meu Git Hub!
 
-
- 
- 
- ![git tecnologia digital ](https://i.gifer.com/fxvT.gif)
+ ![git tecnologia digital ](https://tenor.com/pt-PT/view/idra-greg-fields-sleeping-gamer-gif-25836765)
 
  
 
