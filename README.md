@@ -1,6 +1,6 @@
 ## Seja Bem-Vindos ao Meu Git Hub!
 
-![Gif de Cachorro](https://tenor.com/pt-PT/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808)
+![Gif de um garoto no computador](https://i.gifer.com/9Wmb.gif)
 --------
 
 🤖 Olá, me chamo David Gonsalves!
