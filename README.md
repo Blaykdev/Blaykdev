@@ -34,7 +34,7 @@
 
 ---------
 
-![David Gonsalves GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricia82TI&show_icons=true&theme=dracula)
+![David Gonsalves GitHub stats](https://github-readme-stats.vercel.app/api?username=David gonsalvesshow_icons=true&theme=dracula)
 
  
 
