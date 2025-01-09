@@ -1,4 +1,4 @@
-## Seja Bem-Vindos ao Meu Git Hub!
+## Seja Bem-Vindos ao Meu GitHub!
 
 ![Gif de um garoto no computador](https://i.gifer.com/9Wmb.gif)
 --------
