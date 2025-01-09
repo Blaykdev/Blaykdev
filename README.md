@@ -1,7 +1,19 @@
 ## Seja Bem-Vindos ao Meu Git Hub!
 
-![git tecnologia digital ](https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif)
+![Gif de Cachorro](https://tenor.com/pt-PT/view/dog-hacker-pupper-hacker-pupper-corgi-gif-17954808)
+--------
 
+🤖 Olá, me chamo David Gonsalves!
+
+💬 Sou estudante de Analise e Desenvolvimento de Sistemas
+
+📫[Acesso ao meu Linkdin](https://www.linkedin.com/in/david-gonsalves-33a588206/)
+
+------
+
+### Minhas Tecnologias
+
+![]()
  
 
 <!--
